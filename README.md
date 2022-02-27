@@ -1,25 +1,21 @@
 # MechaCar_Statistical_Analysis
 ## Overview
-
 Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
 Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 
-
-
 ## Linear Regression to Predict MPG
 The variables/coefficients that provided a non random amount of variance to the mpg values in the dataset were vehicle_length and ground_clearance. These two variables have significant impact on the mpg(miles per gallon). 
 
-![linearRegressionModeldeliv1](https://user-images.githubusercontent.com/94208810/155904067-97c34e9a-fee6-4a9a-8766-32e0f2df01d6.png)
+![linearRegressionModeldeliv1](https://user-images.githubusercontent.com/94208810/155904136-0e49a4ae-9ba4-46d1-b6b5-41c1bee707de.png)
 
 Each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. 
-
 Summary of Linear Regression Model
 r-sqared = 0.7149033
 p-value = 5.35e-11
-The r-squared (r2) value represents how well the regression model approximates real-world data points. In this case the r2 value is 0.714 and means that roughly, 71% of the variablilty of our dependent variable (mpg) is explained using this linear model.
+Summary of Linear Regression Model shows the r-squared (r2) value represents how well the regression model approximates real-world data points. In this case the r2 value is 0.714 and means that roughly, 71% of the variablilty of our dependent variable (mpg) is explained using this linear model.
 The p-value(probability value) of our linear regression analysis is 5.35 x 10-11. 
 
 ##  Summary Statistics on Suspension Coils
@@ -39,6 +35,5 @@ Write a short description of a Statistical stucdy that can quantify how the Mech
 What metrics would be of interest to a consumer: cost, city or highway fuel efficiency, horse power, maintance cost or safety rating are examples
 What metric or metrics are you going to test?
 What is the null hypothesis or alternative hypothesis?
-
 What statistical test would you use to test the hypothesis? and Why?
 What data is needed to run the statistical test?
