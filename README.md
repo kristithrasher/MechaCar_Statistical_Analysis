@@ -12,7 +12,7 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 ## Linear Regression to Predict MPG
 The variables/coefficients that provided a non random amount of variance to the mpg values in the dataset were vehicle_length and ground_clearance. These two variables have significant impact on the mpg(miles per gallon). 
 
-###insert picture of regressionmodel summary####
+![linearRegressionModeldeliv1](https://user-images.githubusercontent.com/94208810/155904067-97c34e9a-fee6-4a9a-8766-32e0f2df01d6.png)
 
 Each Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. 
 
