@@ -27,6 +27,10 @@ As a whole it does meet design specifications in total but when broken down for 
 
 ## T-Test on Suspension Coils
 Performed t-tests ti determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.  I used the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch(PSI).
+The one sample t-test compared the mean of the dataset to the required PSI of 1500. 
+Null Hypothesis: The mean = 1500.
+Alternative Hypotheses: The mean is !=(not equal) to 1500.
+
 The sample t-test shows that we pass our null hypothesis with the sample data with a p-value that is greater than our level of significance of .05. 
 
 ![sampleTtest](https://user-images.githubusercontent.com/94208810/155908480-936f6a04-be9c-45eb-b75f-59c37d70886e.png)
