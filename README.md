@@ -30,14 +30,14 @@ Performed t-tests to determine if all manufacturing lots and each lot individual
 The one sample t-test compared the mean of the dataset to the required PSI of 1500. 
 Null Hypothesis: The mean = 1500.
 Alternative Hypotheses: The mean is !=(not equal) to 1500.
-the sample t-test shows that we pass our null hypothesis with the sample data with a p-value that is greater than our level of significance of .05. 
+The sample t-test shows that we pass our null hypothesis with the sample data with a p-value that is greater than our level of significance of .05. 
 
 ![sampleTtest](https://user-images.githubusercontent.com/94208810/155908480-936f6a04-be9c-45eb-b75f-59c37d70886e.png)
 
 t-test that compare all manufacturing lots
 
 ![T-Tests](https://user-images.githubusercontent.com/94208810/155906398-a9d42d03-521d-40fa-a36e-249f1bdfa921.png)
-two-sample t-test
+
 H0 : There is no statistical difference between the two observed sample means. The mean is equal to 1500.
 Ha : There is a statistical difference between the two observed sample means. The mean is not equal to 1500.
 
@@ -54,3 +54,4 @@ Null Hypothesis: H
 Alternative Hypothesis:
 What statistical test would you use to test the hypothesis? and Why?
 What data is needed to run the statistical test?
+The data needed to run the statistical test is the
