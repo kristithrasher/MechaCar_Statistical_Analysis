@@ -49,7 +49,7 @@ So Lot 1 and 2 null hypothesis is true and for lot 3 null hypothesis is false wi
 Statistical stucdy that can quantify how the MechaCar performs against the competition. 
 Is there a diffence in the safety rating for MechaCars and Other Cars (Competition)?
 
-The metric I would like to test would be safety rating. 
+The metric I would like to test would be the safety rating for each car type (MechaCar and Competition)
 
 Null Hypothesis: There is no statistical difference in safety rating.
 
