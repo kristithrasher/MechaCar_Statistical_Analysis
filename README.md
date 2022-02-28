@@ -19,16 +19,18 @@ Summary of Linear Regression Model shows the r-squared (r2) value represents how
 The p-value(probability value) of our linear regression analysis is 5.35 x 10-11. 
 
 ##  Summary Statistics on Suspension Coils
-Insert image of total_summary and lot_summary
+![total_summary](https://user-images.githubusercontent.com/94208810/155906033-f96706d3-5e0e-43bb-b9bb-a8a671d94a6c.png)
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+![lot_summary](https://user-images.githubusercontent.com/94208810/155905856-1e1e4dd2-c860-4279-93eb-49c13989e21e.png)
 
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. The Variance of the suspension coils according to our total_summary statistics show variance of 62.299356. So as a whole it does meet design specifications in total but when broken down for each lot it shows lot 3 exceeds the design specification with a variance of 170.29 and therefore shows Lot1 and Lot2 do meet design specifications of having variance of less than 100 pounds per square inch. 
 
 ## T-Test on Suspension Coils
-t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch(PSI).
+Performed t-tests ti determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.  I used the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch(PSI).
 
+![T-Tests](https://user-images.githubusercontent.com/94208810/155906398-a9d42d03-521d-40fa-a36e-249f1bdfa921.png)
 t-test that compare all manufacturing lots
-
+Results showed 
 
 ##  Study Design: MechaCar vs Competition
 Write a short description of a Statistical stucdy that can quantify how the MechaCar performs against the competition. 
