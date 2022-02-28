@@ -34,7 +34,8 @@ The sample t-test shows that we pass our null hypothesis with the sample data wi
 t-test that compare all manufacturing lots
 
 ![T-Tests](https://user-images.githubusercontent.com/94208810/155906398-a9d42d03-521d-40fa-a36e-249f1bdfa921.png)
-Shows Lot 1 and Lot Lot 2 are showing p-values greater than .05, but lot 3 shows a p-value of .04 and is less than our level of significance and therefore regects our null hypothesis. 
+
+Lot 1 and Lot Lot 2 are showing p-values greater than .05, but lot 3 shows a p-value of .04 and is less than our level of significance and therefore our null hypothesis failed for lot 3. 
 
 ##  Study Design: MechaCar vs Competition
 Write a short description of a Statistical stucdy that can quantify how the MechaCar performs against the competition. 
