@@ -46,10 +46,10 @@ So Lot 1 and 2 null hypothesis is true and for lot 3 null hypothesis is false wi
 
 
 ##  Study Design: MechaCar vs Competition
-Write a short description of a Statistical stucdy that can quantify how the MechaCar performs against the competition. 
-The metrics  that would be of interest to a consumer is Is their a diffence in the safety rating for MechaCars and Other Cars (Competition)
+Statistical stucdy that can quantify how the MechaCar performs against the competition. 
+Is there a diffence in the safety rating for MechaCars and Other Cars (Competition)?
 
-The metric or metrics I would like to test would be horsepower and mpg. 
+The metric or metrics I would like to test would be safety rating and CarType(MechaCar and Competition). 
 
 Null Hypothesis: There is no statistical difference in safety rating.
 
