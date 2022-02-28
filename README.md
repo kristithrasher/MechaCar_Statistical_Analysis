@@ -27,10 +27,14 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Test on Suspension Coils
 Performed t-tests ti determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.  I used the t.test() function to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch(PSI).
+The sample t-test shows that we pass our null hypothesis with the sample data with a p-value that is greater than our level of significance of .05. 
+
+![sampleTtest](https://user-images.githubusercontent.com/94208810/155908480-936f6a04-be9c-45eb-b75f-59c37d70886e.png)
+
+t-test that compare all manufacturing lots
 
 ![T-Tests](https://user-images.githubusercontent.com/94208810/155906398-a9d42d03-521d-40fa-a36e-249f1bdfa921.png)
-t-test that compare all manufacturing lots
-Results showed 
+Shows Lot 1 and Lot Lot 2 are showing p-values greater than .05, but lot 3 shows a p-value of .04 and is less than our level of significance and therefore regects our null hypothesis. 
 
 ##  Study Design: MechaCar vs Competition
 Write a short description of a Statistical stucdy that can quantify how the MechaCar performs against the competition. 
