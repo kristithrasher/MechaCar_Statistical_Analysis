@@ -47,11 +47,19 @@ So Lot 1 and 2 null hypothesis is true and for lot 3 null hypothesis is false wi
 
 ##  Study Design: MechaCar vs Competition
 Write a short description of a Statistical stucdy that can quantify how the MechaCar performs against the competition. 
-What metrics would be of interest to a consumer:  horse power, maintance cost would be of interest when looking at mpg. 
-What metric or metrics are you going to test? I tested the horsepower and mpg. 
-What is the null hypothesis or alternative hypothesis?
-Null Hypothesis: H
-Alternative Hypothesis:
-What statistical test would you use to test the hypothesis? and Why?
-What data is needed to run the statistical test?
-The data needed to run the statistical test is the
+The metrics  that would be of interest to a consumer is Is their a diffence in the safety rating for MechaCars and Other Cars (Competition)
+
+The metric or metrics I would like to test would be horsepower and mpg. 
+
+Null Hypothesis: There is no statistical difference in safety rating.
+Alternative Hypothesis: There is a statistical difference in safety rating. 
+
+The statistical test I would you use to test the hypothesis would be the Two-Sample
+t-Test because I am trying to determine Is there a statistical difference
+between the distribution means
+from two samples. 
+
+I would pair my data (competition data and MechCar data) and  determine if there is a statistical difference in overall safety ratings between vehicles from MechaCar or Competition. Checking to see the mean difference. 
+
+This test would determine if our null hypothesis—that the overall difference is zero. 
+
