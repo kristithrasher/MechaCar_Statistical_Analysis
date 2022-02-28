@@ -52,6 +52,7 @@ The metrics  that would be of interest to a consumer is Is their a diffence in t
 The metric or metrics I would like to test would be horsepower and mpg. 
 
 Null Hypothesis: There is no statistical difference in safety rating.
+
 Alternative Hypothesis: There is a statistical difference in safety rating. 
 
 The statistical test I would you use to test the hypothesis would be the Two-Sample
@@ -60,6 +61,6 @@ between the distribution means
 from two samples. 
 
 I would pair my data (competition data and MechCar data) and  determine if there is a statistical difference in overall safety ratings between vehicles from MechaCar or Competition. Checking to see the mean difference. 
-
-This test would determine if our null hypothesis—that the overall difference is zero. 
+I would look at the p-value and see if it is above the assumed significance level. Based on P-value and level of significance I would determine if there is enough evidence to reject the null hypothesis or not and determine if their is a significant difference in safety ratings between vehicles manufactured from MechaCar and Competitors. 
+ 
 
