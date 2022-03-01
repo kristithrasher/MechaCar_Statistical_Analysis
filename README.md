@@ -51,9 +51,9 @@ Is there a diffence in the safety rating for MechaCars and Other Cars (Competiti
 Calculate the safety rating mean for MechaCars and for Competion cars. 
 The metric I would like to test would be the safety rating for each car type (MechaCar and Competition)
 
-Null Hypothesis: There is no statistical difference in safety rating.
+Null Hypothesis: There is no statistical difference in safety rating for MechaCar and Competition Cars.
 
-Alternative Hypothesis: There is a statistical difference in safety rating. 
+Alternative Hypothesis: There is a statistical difference in safety rating for MechaCar and Competition Cars. 
 
 The statistical test I would you use to test the hypothesis would be the Two-Sample
 t-Test because I am trying to determine Is there a statistical difference
